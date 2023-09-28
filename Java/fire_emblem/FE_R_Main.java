@@ -3,7 +3,7 @@
  *    Description: This program is a recreation of the gameboy style Fire Emblem, originally made by Intelligent
  * Systems, Nintendo.
  * 
- * *** Version 1.05 *** Pre-Alpha (October 10th to , 2016)
+ * *** Version 1.05 ***
  *    Version Description:
  * 
  *    Version Changes:
